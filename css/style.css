@@ -47,3 +47,19 @@ html{
 #vmax {
 	width: 60vmax;
 }
+
+#inch {
+	width: 4inch;
+}
+
+#cm {
+	width: 20cm;
+}
+
+#mm {
+	width: 20mm;
+}
+
+#pt {
+	width: 20pt;
+}
